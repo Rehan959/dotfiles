@@ -1,0 +1,1 @@
+/home/rehan/.config/omarchy/current/theme/neovim.lua
